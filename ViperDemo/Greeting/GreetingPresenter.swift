@@ -20,6 +20,6 @@ class GreetingPresentor: GreetingViewOutputProtocol {
     }
     
     func didTapShowGreetingButton() {
-        <#code#>
+    
     }
 }
