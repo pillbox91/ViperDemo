@@ -21,6 +21,5 @@ class GreetingPresentor: GreetingViewOutputProtocol {
     
     func didTapShowGreetingButton() {
     
-        
     }
 }
