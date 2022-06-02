@@ -19,7 +19,8 @@ class GreetingPresentor: GreetingViewOutputProtocol {
         self.view = view
     }
     
-    func didTapShowGreetingButton() {
+    func didTapSh
+    owGreetingButton() {
     
     }
 }
