@@ -25,7 +25,7 @@ class GreetingInteractor: GreetingInteractorInputProtocol {
     }
     
     func provideGreetingData() {
-        <#code#>
+        
     }
     
     
